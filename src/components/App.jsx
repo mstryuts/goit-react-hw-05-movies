@@ -5,7 +5,7 @@ import Reviews from './Reviews';
 import Cast from './Cast';
 import MovieDetails from './MovieDetails';
 import { SharedLayout } from './SharedLayout';
-import { lazy } from 'react';
+// import { lazy } from 'react';
 
 // const Movies = lazy(() => import('../pages/Movies'));
 // const MovieDetails = lazy(() => import('./MovieDetails'));
