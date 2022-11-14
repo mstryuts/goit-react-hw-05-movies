@@ -21,6 +21,8 @@ const MovieDetails = () => {
   const location = useLocation();
   const backRef = useRef(location?.state?.from);
 
+  console.log(movieId);
+
   useEffect(() => {
     const getData = async id => {
       try {
